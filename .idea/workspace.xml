@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f83d54c-2b45-428b-8551-63aad6ef9d5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operator_Program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Operator/Assig_Oprator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Operator/Bit_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Operator/Log_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Operator/Opr_Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Operator/Rel_Operation.java" afterDir="false" />
+    <list default="true" id="7f83d54c-2b45-428b-8551-63aad6ef9d5e" name="Changes" comment="All Operator">
+      <change afterPath="$PROJECT_DIR$/src/Com/ConcatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/ByteExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/booleanExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/charExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/doubleExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/floatExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/intExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/DataType/Primitive_Data_Types/shortExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Abs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Abs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Abs3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Abstraction/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Con_Human1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Con_Human2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Con_Human3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Human1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Method/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apress/bgn/ch4/basic/Musician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +52,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Con_Operator">
-    <configuration name="Assig_Oprator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Operator.Assig_Oprator" />
+}</component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Abs5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstraction.Abs5" />
       <module name="Operator_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Operator.*" />
+          <option name="PATTERN" value="com.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bit_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Operator.Bit_Operator" />
+    <configuration name="Abs5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstraction.Abs5" />
       <module name="Operator_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Operator.*" />
+          <option name="PATTERN" value="com.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Con_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Operator.Con_Operator" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstraction.Main" />
       <module name="Operator_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Operator.*" />
+          <option name="PATTERN" value="com.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Log_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Operator.Log_Operator" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstraction.Main" />
       <module name="Operator_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Operator.*" />
+          <option name="PATTERN" value="com.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rel_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Operator.Rel_Operation" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Abstraction.main" />
       <module name="Operator_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Operator.*" />
+          <option name="PATTERN" value="com.Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Con_Operator" />
-        <item itemvalue="Application.Bit_Operator" />
-        <item itemvalue="Application.Assig_Oprator" />
-        <item itemvalue="Application.Log_Operator" />
-        <item itemvalue="Application.Rel_Operation" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Abs5" />
+        <item itemvalue="Application.Abs5 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +145,18 @@
       <option name="presentableId" value="Default" />
       <updated>1670412590023</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Operator">
+      <created>1670414881671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670414881671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All Operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Operator" />
   </component>
 </project>
